@@ -35,6 +35,6 @@
     "url": "https://github.com/manleyjster/Leaflet.Illustrate.git"
   },
   "dependencies": {
-    "leaflet-draw": "~2.3.0"
+    "leaflet-draw": "~0.4.10"
   }
 }
